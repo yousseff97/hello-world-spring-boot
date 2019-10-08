@@ -1,0 +1,6 @@
+---
+applications:
+- name: seroter-hello-boot
+  memory: 1G
+  instances: 1
+  path: target/hello-world-0.0.1-SNAPSHOT.jar
